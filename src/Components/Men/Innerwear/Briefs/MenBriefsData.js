@@ -1,0 +1,68 @@
+const MenBriefsData = {
+    Briefs: [
+
+    {
+        _id: '1',
+        name: 'U.S Polo Assn. Men Briefs' ,
+        catagory: 'Briefs',
+        image:'/Men/Innerwear/Briefs/mbr1.jpg' ,
+        price: 1500,
+        brand: 'U.S Polo Assn.',
+        rating: 3,
+        numReviews: 8,
+        description: "Briefs for Men by U.S Polo Assn..",
+        countInStock: 4,
+    },
+    {
+        _id: '2',
+        name: 'Jokey Men Briefs' ,
+        catagory: 'Briefs',
+        image:'/Men/Innerwear/Briefs/mbr2.jpg' ,
+        price: 2000,
+        brand: 'Jokey',
+        rating: 5,
+        numReviews: 80,
+        description: "Briefs for Men by Jokey.",
+        countInStock: 4,
+        },
+        {
+            _id: '3',
+            name: 'U.S Polo Assn. Men Briefs' ,
+            catagory: 'Briefs',
+            image:'/Men/Innerwear/Briefs/mbr3.jpg' ,
+            price: 4000,
+            brand: 'U.S Polo Assn.',
+            rating: 5,
+            numReviews: 89,
+            description: "Briefs for Men by U.S Polo Assn..",
+            countInStock: 4,
+            },
+            {
+             _id: '4',
+             name: 'U.S Polo Assn. Men Briefs' ,
+            catagory: 'Briefs',
+            image:'/Men/Innerwear/Briefs/mbr4.jpg' ,
+            price: 4000,
+            brand: 'U.S Polo Assn.',
+            rating: 5,
+            numReviews: 89,
+            description: "Briefs for Men by U.S Polo Assn..",
+            countInStock: 4,
+                },
+                {
+                    _id: '5',
+                    name: 'Jokey Men Briefs' ,
+            catagory: 'Briefs',
+            image: '/Men/Innerwear/Briefs/mbr5.jpg',
+            price: 800,
+            brand: 'Jokey',
+            rating: 3,
+            numReviews: 922,
+            description: "Briefs Men by Jokey.",
+            countInStock: 10,
+                    },
+],
+
+}
+
+export default  MenBriefsData;

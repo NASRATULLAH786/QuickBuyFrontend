@@ -1,0 +1,68 @@
+const MenBraceletsData = {
+    Bracelets: [
+
+    {
+        id: '1',
+        name: 'Peora Men Bracelet' ,
+        catagory: 'Bracelet',
+        image:'Men/Accessories/Bracelet/mbr1.jpg' ,
+        price: 230,
+        brand: 'Peora',
+        rating: 3.4,
+        numReviews: 8,
+        description: "Bracelet for Peora.",
+        stock: 4,
+    },
+    {
+        id: '2',
+        name: 'Peora Men Bracelet' ,
+        catagory: 'Bracelet',
+        image:'Men/Accessories/Bracelet/mbr2.jpg' ,
+        price: 200,
+        brand: 'Peora',
+        rating: 4,
+        numReviews: 80,
+        description: "Bracelet for Men by Peora..",
+        stock: 4,
+        },
+        {
+            id: '3',
+            name: 'Peora Men Bracelet' ,
+            catagory: 'Bracelet',
+            image:'Men/Accessories/Bracelet/mbr3.jpg' ,
+            price: 330,
+            brand: 'Peora',
+            rating: 5,
+            numReviews: 89,
+            description: "Bracelet for Men by Peora.",
+            stock: 4,
+            },
+            {
+             id: '4',
+             name: 'Sukkhi Men Bracelet' ,
+            catagory: 'Bracelet',
+            image: 'Men/Accessories/Bracelet/mbr4.jpg',
+            price: 100,
+            brand: 'Sukkhi',
+            rating: 4.5,
+            numReviews: 17,
+            description: "Bracelet Men by Sukkhi.",
+            stock: 10,
+                },
+                {
+                    id: '5',
+                    name: 'Sukkhi Men Bracelet' ,
+            catagory: 'Bracelet',
+            image: 'Men/Accessories/Bracelet/mbr5.jpg',
+            price: 200,
+            brand: 'Sukkhi',
+            rating: 5,
+            numReviews: 9,
+            description: "Bracelet Men by Sukkhi.",
+            stock: 16,
+                    },
+],
+
+}
+
+export default  MenBraceletsData;

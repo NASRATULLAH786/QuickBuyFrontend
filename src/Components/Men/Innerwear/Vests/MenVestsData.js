@@ -1,0 +1,68 @@
+const MenVestsData = {
+    Vests: [
+
+    {
+        _id: '1',
+        name: 'U.S Polo Assn. Men Vest' ,
+        catagory: 'Vest',
+        image:'/Men/Innerwear/Vests/mv1.jpg' ,
+        price: 100,
+        brand: 'U.S Polo Assn.',
+        rating: 3,
+        numReviews: 8,
+        description: "Vest for Men by U.S Polo Assn.",
+        countInStock: 4,
+    },
+    {
+        _id: '2',
+        name: 'U.S Polo Assn. Men Vest' ,
+        catagory: 'Vest',
+        image:'/Men/Innerwear/Vests/mv2.jpg' ,
+        price: 200,
+        brand: 'U.S Polo Assn.',
+        rating: 5,
+        numReviews: 80,
+        description: "Vest for Men by U.S Polo Assn.",
+        countInStock: 4,
+        },
+        {
+            _id: '3',
+            name: 'U.S Polo Assn. Men Vest' ,
+            catagory: 'Vest',
+            image:'/Men/Innerwear/Vests/mv3.jpg' ,
+            price: 400,
+            brand: 'U.S Polo Assn.',
+            rating: 3.5,
+            numReviews: 89,
+            description: "Vest for Men by U.S Polo Assn..",
+            countInStock: 4,
+            },
+            {
+             _id: '4',
+             name: 'Puma Men Vest' ,
+            catagory: 'Vest',
+            image: '/Men/Innerwear/Vests/mv4.jpg',
+            price: 200,
+            brand: 'Puma',
+            rating: 4.5,
+            numReviews: 17,
+            description: "Puma Men by Levis.",
+            countInStock: 10,
+                },
+                {
+                    _id: '5',
+                    name: 'Levis Men Vest' ,
+            catagory: 'Vest',
+            image: '/Men/Innerwear/Vests/mv5.jpg',
+            price: 400,
+            brand: 'Levis',
+            rating: 5,
+            numReviews: 922,
+            description: "Vest Men by Levis.",
+            countInStock: 10,
+                    },
+],
+
+}
+
+export default  MenVestsData;

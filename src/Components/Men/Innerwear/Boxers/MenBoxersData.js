@@ -1,0 +1,68 @@
+const MenBoxersData = {
+    Boxers: [
+
+    {
+        _id: '1',
+        name: 'U.S Polo Assn. Men Boxer' ,
+        catagory: 'Boxer',
+        image:'/Men/Innerwear/Boxers/mb1.jpg' ,
+        price: 150,
+        brand: 'U.S Polo Assn.',
+        rating: 3,
+        numReviews: 8,
+        description: "Boxer for Men by U.S Polo Assn..",
+        countInStock: 4,
+    },
+    {
+        _id: '2',
+        name: 'U.S Polo Assn. Men Boxer' ,
+        catagory: 'Boxer',
+        image:'/Men/Innerwear/Boxers/mb2.jpg' ,
+        price: 200,
+        brand: 'U.S Polo Assn.',
+        rating: 5,
+        numReviews: 80,
+        description: "Boxer for Men by U.S Polo Assn..",
+        countInStock: 4,
+        },
+        {
+            _id: '3',
+            name: 'Puma Men Boxer' ,
+            catagory: 'Puma',
+            image:'/Men/Innerwear/Boxers/mb3.jpg' ,
+            price: 400,
+            brand: 'Puma',
+            rating: 5,
+            numReviews: 89,
+            description: "Boxer for Men by Puma.",
+            countInStock: 4,
+            },
+            {
+             _id: '4',
+             name: 'Puma Men Boxer' ,
+            catagory: 'Boxer',
+            image: '/Men/Innerwear/Boxers/mb4.jpg',
+            price: 1000,
+            brand: 'Puma',
+            rating: 4.5,
+            numReviews: 17,
+            description: "Puma Men by Levis.",
+            countInStock: 10,
+                },
+                {
+                    _id: '5',
+                    name: 'Reebook Men Boxer' ,
+            catagory: 'Boxer',
+            image: '/Men/Innerwear/Boxers/mb5.jpg',
+            price: 500,
+            brand: 'Reebook',
+            rating: 3,
+            numReviews: 98,
+            description: "Boxer Men by Reebook.",
+            countInStock: 10,
+                    },
+],
+
+}
+
+export default  MenBoxersData;

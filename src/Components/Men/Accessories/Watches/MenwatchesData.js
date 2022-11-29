@@ -1,0 +1,68 @@
+const MenWatchesData = {
+    Watches: [
+
+    {
+        _id: '1',
+        name: 'Patek Philippe Men Watch' ,
+        catagory: 'Watch',
+        image:'/Men/Accessories/watches/mw1.jpg' ,
+        price: 1500,
+        brand: 'Patek Philippe',
+        rating: 3,
+        numReviews: 8,
+        description: "Watch for Men by Patek Philippe.",
+        countInStock: 4,
+    },
+    {
+        _id: '2',
+        name: 'Patek Philippe Men Watch' ,
+        catagory: 'Watch',
+        image:'/Men/Accessories/watches/mw2.jpg' ,
+        price: 2000,
+        brand: 'Patek Philippe',
+        rating: 5,
+        numReviews: 80,
+        description: "Watch for Men by Patek Philippe.",
+        countInStock: 4,
+        },
+        {
+            _id: '3',
+            name: 'Patek Philippe Men Watch' ,
+            catagory: 'Watch',
+            image:'/Men/Accessories/watches/mw3.jpg' ,
+            price: 4000,
+            brand: 'Patek Philippe',
+            rating: 5,
+            numReviews: 89,
+            description: "Watch for Men by Patek Philippe.",
+            countInStock: 4,
+            },
+            {
+             _id: '4',
+             name: 'Patek Philippe Men Watch' ,
+            catagory: 'Watch',
+            image: '/Men/Accessories/watches/mw4.jpg',
+            price: 9000,
+            brand: 'Patek Philippe',
+            rating: 4.5,
+            numReviews: 17,
+            description: "Watch Men by Patek Philippe.",
+            countInStock: 10,
+                },
+                {
+                    _id: '5',
+                    name: 'Patek Philippe Men Watch' ,
+            catagory: 'Watch',
+            image: '/Men/Accessories/watches/mw5.jpg',
+            price: 2000,
+            brand: 'Patek Philippe',
+            rating: 5,
+            numReviews: 89,
+            description: "Watch Men by Patek Philippe.",
+            countInStock: 10,
+                    },
+],
+
+}
+
+export default  MenWatchesData;
